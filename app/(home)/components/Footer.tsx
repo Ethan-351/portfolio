@@ -11,7 +11,7 @@ export default function Footer() {
         </h1>
       </Link>
       <p className=" font-thin  text-center justify-between py-5">
-        &copy; Maikī Millán, 2024
+        &copy; Muhammad Ahsan, 2025
       </p>
     </div>
   );

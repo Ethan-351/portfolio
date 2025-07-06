@@ -4,27 +4,22 @@ import Link from "next/link";
 export default function Navbar() {
   const socials = [
     {
-      Link: "https://www.linkedin.com/in/miguel-millán-675506307/",
+      Link: "https://www.linkedin.com/in/muhammad-ahsan-nadeem-baig-937b4b369/",
       Label: "LinkedIn",
       Icon: SiLinkedin,
     },
-    {
-      Link: "https://github.com/MangelMillan",
-      Label: "GitHub",
-      Icon: SiGithub,
-    },
-    {
-      Link: "https://www.instagram.com/miguel.millaan/",
-      Label: "Instagram",
-      Icon: SiInstagram,
-    },
+    // {
+    //   Link: "https://www.instagram.com/miguel.millaan/",
+    //   Label: "Instagram",
+    //   Icon: SiInstagram,
+    // },
   ];
 
   return (
     <nav className="py-6 px-4 sm:px-8 lg:px-10 flex justify-between items-center fixed top-0 w-full bg-transparent backdrop-blur-sm z-50 max-w-7xl mx-auto left-0 right-0">
       <Link href="/">
         <h1 className="text-4xl font-bold underline underline-offset-8 decoration-yellow-300 -rotate-3 cursor-pointer">
-          Maikī
+          Ahsan
         </h1>
       </Link>
       <div className="flex items-center gap-5">

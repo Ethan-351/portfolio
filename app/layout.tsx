@@ -25,20 +25,20 @@ export const metadata: Metadata = {
     template: '%s | Video Editor Portfolio',
     default: 'Video Editor Portfolio',
   },
-  description: "Miguel Millán's video editing portfolio showcasing creative work and professional video editing services",
+  description: "Muhammad Ahsan video editing portfolio showcasing creative work and professional video editing services",
   metadataBase: new URL('https://your-domain.com'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://your-domain.com',
     title: 'Video Editor Portfolio',
-    description: "Miguel Millán's video editing portfolio",
+    description: "Muhammad Ahsan video editing portfolio",
     siteName: 'Video Editor Portfolio',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Video Editor Portfolio',
-    description: "Miguel Millán's video editing portfolio",
+    description: "Muhammad Ahsan video editing portfolio",
   },
   robots: {
     index: true,

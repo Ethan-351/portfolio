@@ -43,7 +43,7 @@ export function HeroSection() {
             👋 Hey there,
             <br />
             <span className="text-5xl md:text-5xl lg:text-6xl text-yellow-300 animate-flicker duration-1000">
-              It&apos;s Miguel Millán
+              It&apos;s Muhammad Ahsan
             </span>
           </h1>
           <div className="mt-12 flex justify-center text-center">
